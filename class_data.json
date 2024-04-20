@@ -1,0 +1,57 @@
+[
+    {
+        "name": "David",
+        "gender": "male",
+        "height": 190
+    },
+    {
+        "name": "Mike",
+        "gender": "male",
+        "height": 185
+    },
+    {
+        "name": "John",
+        "gender": "male",
+        "height": 180
+    },
+    {
+        "name": "Bob",
+        "gender": "male",
+        "height": 175
+    },
+    {
+        "name": "Emily",
+        "gender": "female",
+        "height": 173
+    },
+    {
+        "name": "Tom",
+        "gender": "male",
+        "height": 172
+    },
+    {
+        "name": "Eve",
+        "gender": "female",
+        "height": 170
+    },
+    {
+        "name": "Alice",
+        "gender": "female",
+        "height": 168
+    },
+    {
+        "name": "Sophia",
+        "gender": "female",
+        "height": 162
+    },
+    {
+        "name": "Sara",
+        "gender": "female",
+        "height": 160
+    },
+    {
+        "name": "Liana",
+        "gender": "female",
+        "height": 203
+    }
+]
